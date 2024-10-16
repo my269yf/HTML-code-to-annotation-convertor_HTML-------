@@ -1,2 +1,4 @@
-# HTML-code-to-annotation-convertor_HTML代码转文本工具
- 将代码转换为文本，用于在网页上演示你的代码而不会被浏览器识别。
+# HTML-code-to-text-convertor_HTML代码转文本工具
+将代码转换为文本，用于在网页上演示你的代码而不会被浏览器识别。自己做着好玩的小工具，同时也开源了，不知道对大家有没有用。
+
+——Mr.YF
